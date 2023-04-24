@@ -1,0 +1,16 @@
+{
+  "name": "antiboterc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "truffle-plugin-verify": "^0.5.18"
+  }
+}
